@@ -1,3 +1,5 @@
+#![allow(dead_code, unused_imports, non_snake_case)]
+
 use std::io::{self, BufRead};
 
 fn staircase(n: i32) {
